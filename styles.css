@@ -30,7 +30,7 @@ img {
 
 .container .recipes li {
     display: inline-block;
-    padding: 5px;
+    padding: 20px;
     background-color: white;
 }
 
@@ -41,4 +41,17 @@ img {
     margin: 10px auto;
     padding: 30px;
 
+}
+
+.description, .ingredients, .steps {
+    padding-bottom: 20px;
+}
+
+.home {
+    background-color: white;
+    display: block;
+    width: 200px;
+    padding: 10px;
+    margin: 20px auto;
+    text-align: center;
 }
